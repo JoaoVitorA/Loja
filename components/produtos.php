@@ -72,7 +72,7 @@
                             
                               <h4>  R$ 4,50</h4>
                           
-                                <a href="" class="btn btn-primary mt-2 d-block">
+                                <a href="carrinho.php" class="btn btn-primary mt-2 d-block">
                                     Adicionar ao Carrinho
                                 </a>
                                 <a href="qrcode.php" class="btn btn-primary mt-2 d-block">

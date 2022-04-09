@@ -18,7 +18,7 @@
 <div class="d-flex flex-column wrapper">
         <nav  style="background-color: #45C4B0;" class="navbar navbar-expand-lg navbar-dark  border-bottom shadow-sm mb-3">
             <div class="container" >
-                <a class="navbar-brand" href="/"><b>Encantos & Balões </b></a>
+                <a class="navbar-brand" href=""><b>Encantos & Balões </b></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target=".navbar-collapse">
                     <span class="navbar-toggler-icon"></span>
@@ -38,7 +38,7 @@
                             <li class="nav-item">
                                 <span class="badge rounded-pill  text-danger position-absolute ms-4 mt-0">
                                 </span>
-                                <a href="/carrinho.html" style="margin-left:15px" > <img src="img/car.png" alt>
+                                <a href="./carrinho.php" style="margin-left:15px" > <img src="img/car.png" alt>
                                    
                                 </a>
                             </li>
